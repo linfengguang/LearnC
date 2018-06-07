@@ -2,8 +2,7 @@
 
 int main(void)
 {
-	int num;
-	num = 1;
+	int num = 1;
 
 	printf("I am a simple ");
 	printf("computer.\n");
