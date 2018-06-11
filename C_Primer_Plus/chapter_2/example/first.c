@@ -7,6 +7,9 @@ int main(void)
 	printf("I am a simple ");
 	printf("computer.\n");
 	printf("My favorite number is %d because it is first.\n", num);
+	num = 10;
+	printf("My second favorite number is %d because it is first.\n", num);
 
+	getchar();
 	return 0;
 }
